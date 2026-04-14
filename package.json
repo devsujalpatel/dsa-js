@@ -1,7 +1,24 @@
 {
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_patterns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsujalpatel/dsa-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/devsujalpatel/dsa-js/issues"
+  },
+  "homepage": "https://github.com/devsujalpatel/dsa-js#readme",
   "dependencies": {
-    "@types/node": "^24.3.0",
-    "prompt-sync": "^4.2.0",
-    "typescript": "^5.9.2"
+    "prompt-sync": "^4.2.0"
   }
 }
